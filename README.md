@@ -10,5 +10,4 @@ Instituição: FEI
     title = {{DAGs with NO TEARS: Continuous Optimization for Structure Learning}},
     year = {2018}
 }
-
 2.
